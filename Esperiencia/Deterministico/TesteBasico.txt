@@ -1,0 +1,42 @@
+Teste Basico
+
+Numa lista de topicos
+['Lisboa', 'Sporting', 'Ananas', 'pera', 'Bacalahao', 'Nutricao', 'Ginasio', 'Marrabenta', 'Marisco',
+'Maputo', 'Educacao', 'Caju', 'Matapa','Sao Paulo', 'Arte', 'Cuca', 'Maracana', 'Samba', 'Pagode'] 
+
+Da lista de topico, a regiao [MZ] tem
+['Maputo', 'Sporting', 'Ananas', 'Educacao', 'Caju', 'Nutricao', 'Ginasio', 'Marrabenta', 'Matapa']
+Da lista de topico, a regiao [PT] tem:
+['Lisboa', 'Sporting', 'Ananas', 'pera', 'Bacalahao', 'Nutricao', 'Ginasio', 'Marrabenta', 'Marisco']
+Da lista de topico, a regiao [BR] tem:
+['Sao Paulo', 'Sporting', 'Ananas', 'Arte', 'Cuca', 'Nutricao', 'Maracana', 'Samba', 'Pagode']
+
+Foram enviados 1100 em todas as regioes
+
+Recebidos
+
+consumer mz
+Total Itens recebidos: 17
+Total Itens encaminhados from pt: 5
+Total Itens encaminhados from br: 3
+
+consumer pt
+Total Itens recebidos: 17
+Total Itens encaminhados from mz: 5
+Total Itens encaminhados from br: 3
+
+consumer br
+Total Itens recebidos: 15
+Total Itens encaminhados from mz: 3
+Total Itens encaminhados from pt: 3
+
+
+Conclusao
+
+9/9 de recepcao local.
+5/5 de encaminhamento do servidor MZ para PT e vice-versa
+3/3 de encaminhamento do servidor MZ para BR e vice-versa
+3/3 de encaminhamento do servidor PT para BR e vice-versa
+100% de encaminhamento na rede.
+
+ 

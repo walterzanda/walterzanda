@@ -1,0 +1,36 @@
+Teste1
+
+Numa lista de topicos
+
+Da lista de topico, [MZ] tem o intervalo de 1- 500
+Da lista de topico, [PT] tem o intervalo de 250 - 750
+Da lista de topico, [BR] tem o intervalo de 150 - 300 + 300-400 + 900 - 1100
+
+Foram enviados 1100 em todas as regioes
+
+Recebidos
+
+consumer mz
+Total Itens recebidos: 1000
+Total Itens encaminhados from pt: 250
+Total Itens encaminhados from br: 250
+
+consumer pt
+Total Itens recebidos: 900
+Total Itens encaminhados from mz: 250
+Total Itens encaminhados from br: 150
+
+consumer br
+Total Itens recebidos: 750
+Total Itens encaminhados from mz: 250
+Total Itens encaminhados from pt: 150
+
+
+Conclusao
+
+500/500 de recepcao local
+250/250 de encaminhamento do servidor MZ para PT e vice-versa
+250/250 de encaminhamento do servidor MZ para BR e vice-versa
+150/150 de encaminhamento do servidor PT para BR.
+
+ 

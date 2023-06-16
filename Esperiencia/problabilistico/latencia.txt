@@ -1,0 +1,90 @@
+tamanho inicial 100
+consumer mz
+Done
+Total Itens recebidos: 596
+Total Itens encaminhados from pt: 77
+Total Itens encaminhados from br: 110
+Tempo Medio from mz: 0:00:00.465916
+Tempo Medio from pt: 0:00:01.350895
+Tempo Medio from br: 0:00:01.726145
+
+consumer pt
+Done
+Total Itens recebidos: 382
+Total Itens encaminhados from mz: 85
+Total Itens encaminhados from br: 66
+Tempo Medio from pt: 0:00:00.346968
+Tempo Medio from mz: 0:00:01.230108
+Tempo Medio from br: 0:00:01.124206
+
+consumer br
+Done
+Total Itens recebidos: 485
+Total Itens encaminhados from mz: 118
+Total Itens encaminhados from pt: 59
+Tempo Medio from br: 0:00:00.401016
+Tempo Medio from mz: 0:00:01.640236
+Tempo Medio from pt: 0:00:01.473427
+
+-----------------------------------------------------------
+tamanho inicial 200
+
+consumer mz
+Done
+Total Itens recebidos: 582
+Total Itens encaminhados from br: 104
+Total Itens encaminhados from pt: 80
+Tempo Medio from mz: 0:00:00.484228
+Tempo Medio from br: 0:00:01.701056
+Tempo Medio from pt: 0:00:01.341421
+
+consumer pt
+Done
+Total Itens recebidos: 377
+Total Itens encaminhados from br: 46
+Total Itens encaminhados from mz: 84
+Tempo Medio from pt: 0:00:00.352621
+Tempo Medio from br: 0:00:01.219386
+Tempo Medio from mz: 0:00:01.352678
+
+consumer br
+Done
+Total Itens recebidos: 477
+Total Itens encaminhados from mz: 100
+Total Itens encaminhados from pt: 72
+Tempo Medio from br: 0:00:00.417742
+Tempo Medio from mz: 0:00:01.811283
+Tempo Medio from pt: 0:00:01.326053
+
+
+-----------------------------------------------------------
+Tamanho inicial 400
+
+consumer mz
+Done
+Total Itens recebidos: 594
+Total Itens encaminhados from pt: 86
+Total Itens encaminhados from br: 121
+Tempo Medio from mz: 0:00:00.500295
+Tempo Medio from pt: 0:00:01.542677
+Tempo Medio from br: 0:00:01.820644
+
+consumer pt
+Done
+Total Itens recebidos: 313
+Total Itens encaminhados from br: 76
+Tempo Medio from pt: 0:00:00.348779
+Tempo Medio from br: 0:00:01.562004
+
+consumer br
+Done
+Total Itens recebidos: 523
+Total Itens encaminhados from pt: 77
+Total Itens encaminhados from mz: 106
+Tempo Medio from br: 0:00:00.447290
+Tempo Medio from pt: 0:00:01.392604
+Tempo Medio from mz: 0:00:01.792570
+
+Observacao:
+
+O tamanho do SBF nao interfere na latencia do desempenho do sistema.

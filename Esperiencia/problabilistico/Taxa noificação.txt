@@ -1,0 +1,58 @@
+consumer mz
+Done
+Total Itens recebidos: 596
+Total Itens encaminhados from pt: 77
+Total Itens encaminhados from br: 110
+Tempo Medio from mz: 0:00:00.465916
+Tempo Medio from pt: 0:00:01.350895
+Tempo Medio from br: 0:00:01.726145
+
+consumer pt
+Done
+Total Itens recebidos: 382
+Total Itens encaminhados from mz: 85
+Total Itens encaminhados from br: 66
+Tempo Medio from pt: 0:00:00.346968
+Tempo Medio from mz: 0:00:01.230108
+Tempo Medio from br: 0:00:01.124206
+
+consumer br
+Done
+Total Itens recebidos: 485
+Total Itens encaminhados from mz: 118
+Total Itens encaminhados from pt: 59
+Tempo Medio from br: 0:00:00.401016
+Tempo Medio from mz: 0:00:01.640236
+Tempo Medio from pt: 0:00:01.473427
+
+--------------------------------------------------------------------------------------------------
+consumer mz
+Done
+Total Itens recebidos: 1533
+Total Itens encaminhados from pt: 541
+Tempo Medio from mz: 0:00:01.262185
+Tempo Medio from pt: 0:00:06.913224
+
+consumer pt
+Done
+Total Itens recebidos: 1927
+Total Itens encaminhados from mz: 531
+Total Itens encaminhados from br: 591
+Tempo Medio from pt: 0:00:01.056093
+Tempo Medio from mz: 0:00:07.375630
+Tempo Medio from br: 0:00:05.753473
+
+consumer br
+Done
+Total Itens recebidos: 2175
+Total Itens encaminhados from mz: 592
+Total Itens encaminhados from pt: 484
+Tempo Medio from br: 0:00:01.254270
+Tempo Medio from mz: 0:00:07.065478
+Tempo Medio from pt: 0:00:05.772239
+
+Observacao:
+Quando mais eventos a circularem. o kafa fica lento a responder a demanda
+
+---------------------------------------------------------------------------------------------------
+
